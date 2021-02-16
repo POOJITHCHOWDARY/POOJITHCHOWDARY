@@ -1,6 +1,6 @@
 ### Hi there 👋
- ### My name is Poojith Chowdary  
- ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZWUphuja4FQI3LMWV6BQcM6QNyc8WM0cvA&usqp=CAU)
+ ### I'm Poojith Chowdary  
+ ![](https://pbs.twimg.com/profile_images/1082339866187157506/rq8lYDyO.jpg)
 
 - 🔭 I’m currently studying 2nd year B.Tech At Velagapudi Ramakrishna Siddhartha Engineering College 
 - 🌱 I’m currently learning C, JAVA Languages 
